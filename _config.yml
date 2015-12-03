@@ -1,0 +1,19 @@
+title: "#FalconPD"
+description: "#FalconPD Twitter Challenge Website"
+sitename: "#FalconPD"
+baseurl: ''
+sass:
+  sass_dir: /assets/_sass
+  style: :compressed
+collections:
+  - features
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - LICENSE.txt
+  - CNAME
+  - assets/purple_day.xcf
+  - assets/gold_day.xcf
+  - assets/welcome.xcf
+  - assets/live.xcf
