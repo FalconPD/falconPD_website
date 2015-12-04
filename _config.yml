@@ -17,3 +17,4 @@ exclude:
   - assets/gold_day.xcf
   - assets/welcome.xcf
   - assets/live.xcf
+  - assets/medal.xcf
