@@ -9,7 +9,7 @@ hashtags: "#FalconPD, #MillLakeIsGreat, #GreatDayToBeAFalcon, #FabulousFalcons, 
 daterun: "Monday December 07, 2015"
 mostretweeted: "@None"
 mostfavorited: "@None"
-totaltweets: "0"
+totaltweets: "1"
 ---
 This web page updates automatically every morning showing you what hashtags are being used and who our Twitter superstars are! In order for your tweets to be counted they must include one of the following hashtags: **{{ page.hashtags }}**
 
