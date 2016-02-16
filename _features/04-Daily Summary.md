@@ -5,15 +5,16 @@ heading: Who is active on twitter?
 image: "assets/pie.svg"
 css: "border-radius:0px;"
 width: 500px
-hashtags: "&#35;FalconPD, &#35;MillLakeIsGreat, &#35;GreatDayToBeAFalcon, &#35;FabulousFalcons, &#35;There'sNoPlaceLikeOakTree"
-daterun: "Thursday December 03, 2015"
-mostretweeted: "@kmigs32"
-mostfavorited: "@kmigs32"
+hashtags: "#FalconPD, #MillLakeIsGreat, #GreatDayToBeAFalcon, #FabFalcons, #TheresNoPlaceLikeOakTree, #WeAreBrookside, #WLCares, #BBRocks, #ApplegarthFalcons"
+daterun: "Tuesday February 16, 2016"
+mostretweeted: "@None"
+mostfavorited: "@MTMS_Falcons"
+totaltweets: "1"
 ---
-This web page updates automatically every morning, showing you what hashtags are being used and who our Twitter superstars are! In order for your tweets to be counted they must include one of the following hashtags: **{{ page.hashtags }}**
+This web page updates automatically every morning showing you what hashtags are being used and who our Twitter superstars are! In order for your tweets to be counted they must include one of the following hashtags: **{{ page.hashtags }}**
 
-**As of {{ page.daterun }}**
-
-Most Retweeted: **{{ page.mostretweeted }}**
-
-Most Favorited: **{{ page.mostfavorited }}**
+	As of {{ page.daterun }}:
+	
+	In the past 24 hours there were {{ page.totaltweets }} total tweets
+	Most Retweeted: {{ page.mostretweeted }}
+	Most Favorited: {{ page.mostfavorited }}
