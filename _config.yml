@@ -1,7 +1,6 @@
 title: "#FalconPD"
 description: "#FalconPD Twitter Challenge Website"
 sitename: "#FalconPD"
-destination: /home/ryan/FalconPD.github.io
 baseurl: ''
 sass:
   sass_dir: /assets/_sass
