@@ -6,7 +6,7 @@ image: "assets/pie.svg"
 css: "border-radius:0px;"
 width: 500px
 hashtags: "#FalconPD, #MillLakeIsGreat, #GreatDayToBeAFalcon, #FabFalcons, #TheresNoPlaceLikeOakTree, #WeAreBrookside, #WLCares, #BBRocks, #ApplegarthFalcons"
-daterun: "Monday May 02, 2016"
+daterun: "Tuesday May 03, 2016"
 mostretweeted: "@None"
 mostfavorited: "@MTMS_Falcons"
 totaltweets: "1"
