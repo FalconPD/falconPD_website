@@ -6,9 +6,9 @@ image: "assets/pie.svg"
 css: "border-radius:0px;"
 width: 500px
 hashtags: "#FalconPD, #MillLakeIsGreat, #GreatDayToBeAFalcon, #FabFalcons, #TheresNoPlaceLikeOakTree, #WeAreBrookside, #WLCares, #BBRocks, #ApplegarthFalcons"
-daterun: "Thursday June 30, 2016"
+daterun: "Friday July 01, 2016"
 mostretweeted: "@None"
-mostfavorited: "@dr_roselle"
+mostfavorited: "@BlackqohWww"
 totaltweets: "1"
 ---
 This web page updates automatically every morning showing you what hashtags are being used and who our Twitter superstars are! In order for your tweets to be counted they must include one of the following hashtags: **{{ page.hashtags }}**
